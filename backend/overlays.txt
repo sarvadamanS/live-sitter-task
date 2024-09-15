@@ -1,0 +1,19 @@
+[
+    {
+        "_id": 1,
+        "content": {
+            "bgColor": "#74b5fb",
+            "textColor": "#ff5c5c",
+            "type": "text",
+            "value": "Saerva"
+        },
+        "position": {
+            "x": 99,
+            "y": 69
+        },
+        "size": {
+            "height": 100,
+            "width": 100
+        }
+    }
+]

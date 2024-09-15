@@ -1,0 +1,7 @@
+Flask
+pymongo
+opencv-python
+CORS
+flask-cors
+logging
+
