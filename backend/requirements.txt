@@ -1,7 +1,7 @@
-Flask
-pymongo
-opencv-python
-CORS
-flask-cors
-logging
 
+cors==1.0.1
+Flask==3.0.3
+Flask-Cors==5.0.0
+opencv-python==4.10.0.84
+requests==2.32.3
+requests-file==2.1.0

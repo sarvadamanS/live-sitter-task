@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "concurrently \"npm run backend\" \"npm run frontend\"",
-    "backend": "cd backend && python app.py",
+    "backend": "cd backend && python api/app.py",
     "frontend": "cd frontend && npm run dev"
   },
   "devDependencies": {

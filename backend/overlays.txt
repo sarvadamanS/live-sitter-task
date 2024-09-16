@@ -8,8 +8,8 @@
             "value": "Saerva"
         },
         "position": {
-            "x": 99,
-            "y": 69
+            "x": 137,
+            "y": 57
         },
         "size": {
             "height": 100,
