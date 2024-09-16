@@ -2,18 +2,35 @@
     {
         "_id": 1,
         "content": {
-            "bgColor": "#74b5fb",
-            "textColor": "#ff5c5c",
-            "type": "text",
-            "value": "Saerva"
+            "bgColor": "#ffffff",
+            "textColor": "#000000",
+            "type": "image",
+            "value": "https://codeskulptor-demos.commondatastorage.googleapis.com/GalaxyInvaders/alien_7_1.png"
         },
         "position": {
-            "x": 137,
+            "x": 186,
             "y": 57
         },
         "size": {
             "height": 100,
             "width": 100
         }
+    },
+    {
+        "content": {
+            "bgColor": "#2effcb",
+            "textColor": "#ff0000",
+            "type": "text",
+            "value": "Sarvadaman"
+        },
+        "position": {
+            "x": 31,
+            "y": 114
+        },
+        "size": {
+            "height": 100,
+            "width": 100
+        },
+        "_id": 2
     }
 ]
